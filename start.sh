@@ -3,8 +3,8 @@ set -e
 
 # set defaults
 default_hostname="$(hostname)"
-default_domain="netson.local"
-default_puppetmaster="foreman.netson.nl"
+default_domain="j4b3r.local"
+default_puppetmaster="server.jaber.ir"
 tmp="/root/"
 
 clear
